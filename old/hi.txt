@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+	<title>Aman </title>
+</head>
+<body background="https://mobileimages.lowes.com/product/converted/034878/034878142999.jpg">
+	<h1><center> <font color="green" face="Segoe Print" >Welcome to My First Website </font></center></h1>
+	<hr color="black" size="0.3%" width="50%" >
+	<center><p> <font size="4">Hi, This is Aman Verma from IIT Mandi doing <q><u>Mechanical Engineering </u> </q></font> </p></center>
+	<form align="right" action="https://www.instagram.com/danny_xor/?hl=en">        
+    	<input type="image" width="50" height="50" align="right" src="inst.png" value="Follow me on Facebook" />
+	</form>
+	<form align="right" action="https://www.facebook.com/danny.xorp">        
+    	<input type="image" width="50" height="50" align="right" src="facebook.png" value="Follow me on Facebook" />
+	</form>
+	<center>
+		<a href="page1.html"><button>Home</button></a>
+		<a href="page2.html"><button>Photos</button></a>
+		<a href="page3.html"><button>Videos</button></a>
+		<a href="page4.html"><button>Friends</button></a>
+		<a href="page5.html"><button>School</button></a>
+		<a href="page6.html"><button>College</button></a>
+		<a href="page7.html"><button>Hobbies</button></a>
+		<a href="page8.html"><button>Help</button></a>
+		<a href="page10.html"><button>About</button></a><br><br>
+		<a href="aman.jpg"> <font color="#196F3D">Click here to see My Photo</font></a>
+	</center>
+	<hr>
+	<form action="https://drive.google.com/file/d/11v3wOZg6nrn_zLCZAjClLFZEnX12nX85/view?usp=sharing">
+    	<input type="submit" value="Go to Movie : RANGO" />
+	</form>
+	<hr>
+	<h4 > <font size="4">My Songs </font></h4>
+
+	<font color="blue">Patola</font>  |  <a href="Videos/Patola.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Kaabil.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Chained To The Rhythm</font>  |  <a href="Videos/Chained To The Rhythm.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Chained To The Rhythm.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Champion</font>  |  <font color="Red"><a href="Videos/Champion.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Champion.mp3" download="download"><font color="Green"> Download now </font></a></font><br>
+	<br>
+	<font color="blue">Chandigarh</font>  |  <a href="Videos/Chandigarh.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Chandigarh.mp3" download="download"> <font color="Green">Download now</font> </a><br>
+	<br>
+	<font color="blue">Closer</font>  |  <a href="Videos/Closer.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Closer.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">DJ Got Us</font>  |  <a href="Videos/DJ Got Us.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/DJ Got Us.mp3" download="download"> <font color="Green">Download now</font> </a><br>
+	<br>
+	<font color="blue">Faded</font>  |  <a href="Videos/Faded.mp3"><font color="Red"><font color="Red">Play Online</font></a>  |  <a href="Videos/Faded.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Hold Me</font>  |  <a href="Videos/Hold me.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Hold me.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Lean On</font>  |  <a href="Videos/Lean On.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Lean On.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Paranda</font>  |  <a href="Videos/Paranda.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Paranda.mp3" download="download"><font color="Green"> Download now</font> </a><br>
+	<br>
+	<font color="blue">Raat Di Gedi</font>  |  <a href="Videos/Raat Di Gedi.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Raat Di Gedi.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Wonderland</font>  |  <a href="Videos/Wonderland.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Wonderland.mp3" download="download"> <font color="Green">Download now</font> </a><br>
+	<br>
+	<font color="blue">EK Mulaqat Ho</font>  |  <a href="Videos/EK Mulaqat Ho.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/EK Mulaqat Ho.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Happy Happy</font>  |  <a href="Videos/Happy Happy.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Happy Happy.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Mi Gente</font>  |  <a href="Videos/Mi Gente.mp3"><font color="Red">Play Online</a></font>  |  <a href="Videos/Mi Gente.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Salute</font>  |  <a href="Videos/Salute.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Salute.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Swalla</font>  |  <a href="Videos/Swalla.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Swalla.mp3" download="download"> <font color="Green">Download now</font> </a><br>
+	<br>
+	<font color="blue">This Ones For You</font>  |  <a href="Videos/This Ones For You.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/This Ones For You.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<font color="blue">Daru Badnaam</font>  |  <a href="Videos/Daru Badnaam.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Daru Badnaam.mp3" download="download"><font color="Green"> Download now </font></a><br>
+	<br>
+	<font color="blue">Jodi Teri Meri</font>  |  <a href="Videos/Jodi Teri Meri.mp3"><font color="Red">Play Online</font></a>  |  <a href="Videos/Jodi Teri Meri.mp3" download="download"> <font color="Green">Download now </font></a><br>
+	<br>
+	<br><hr>
+	<h6 align="right"> Created by Aman Verma </h6>
+</body>
+</html>
