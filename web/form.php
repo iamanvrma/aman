@@ -6,7 +6,7 @@
 		$mailFrom = $_POST['mail'];
 		$message = $_POST['message'];
 
-		$mailTo = "b17114@students.iitmandi.ac.in";
+		$mailTo = "aman99.er@gmail.com";
 		$headers = "From: ".$mailFrom;
 		$txt = "You have received an e-mail from ".$name.".\n\n".$message;
 
