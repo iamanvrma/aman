@@ -3,7 +3,7 @@
 	$visitor_email = $_POST['Email'];
 	$message = $_POST['Message'];
 	
-	$email_from = 'iamanverma.github.io/pages/web';
+	$email_from = 'b17114@students.iitmandi.ac.in';
 
 	$email_subject = "New Form Submission";
 
