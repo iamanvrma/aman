@@ -663,12 +663,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="clearfix"> </div>
 			</div>
 			<div class="col-md-6 mail_right">
-				<form action="handler.php" method="post">
-					<input type="text" name="Name" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+				<form action="form.php" method="post">
+					<input type="text" name="name" placeholder="Name">
+					<input type="text" name="mail" placeholder="Email">
+					<input type="text" name="subject" placeholder="Subject">
+					<textarea name="message" placeholder="Message..." ></textarea>
+					<input type="submit" placeholder="Send">
+					<!--
 					<input type="email" name="Email" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" required="">
-					<!--<input type="text" name="Mobile number" value="Mobile number" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mobile number';}" required="">-->
+					<input type="text" name="Mobile number" value="Mobile number" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Mobile number';}" required="">
 					<textarea name="Message..." value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-					<input type="submit" value="Send">
+					<input type="submit" value="Send">-->
 					
 				</form>
 			</div>

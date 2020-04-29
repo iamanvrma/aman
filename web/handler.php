@@ -1,7 +1,7 @@
 <?php
-	$name = $_POST['Name'];
-	$visitor_email = $_POST['Email'];
-	$message = $_POST['Message'];
+	$name = $_POST['name'];
+	$visitor_email = $_POST['mail'];
+	$message = $_POST['message'];
 	
 	$email_from = 'b17114@students.iitmandi.ac.in';
 
@@ -13,11 +13,11 @@
 
 	$to = "aman99.er@gmail.com";
 
-	$headers = "From : $email_from \r \n";
+	$headers = "From: $email_from \r \n";
 
 	$headers = "Reply-To: $visitor_email\r\n";
 
-	mail($to,$email_subject,$email_body,$headers);
+	mail($to, $email_subject, $email_body, $headers);
 
 	header("Location: index.html");
 
