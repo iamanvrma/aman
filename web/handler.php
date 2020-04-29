@@ -1,7 +1,7 @@
 <?php
-	$name = $_POST['name'];
-	$visitor_email = $_POST['email'];
-	$message = $_POST['message'];
+	$name = $_POST['Name'];
+	$visitor_email = $_POST['Email'];
+	$message = $_POST['Message'];
 	
 	$email_from = 'iamanverma.github.io/pages/web';
 
